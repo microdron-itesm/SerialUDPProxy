@@ -1,0 +1,6 @@
+[submodule "libs/UDPLib"]
+	path = libs/UDPLib
+	url = git@github.com:microdron-itesm/UDPLib.git
+[submodule "libs/args-parser"]
+	path = libs/args-parser
+	url = https://github.com/igormironchik/args-parser.git
